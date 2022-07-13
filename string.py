@@ -24,4 +24,6 @@ for i in range(len(k)):
     else:
         m += l[x]
         x += 1
+
+#printing
 print(m)
